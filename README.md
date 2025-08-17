@@ -8,12 +8,12 @@ This was the first project I 'vibe' coded. Blah Blah, **Dyslexic**. Blah Blah ca
 
 
 ### How I use it:
-My home server runs the script nightly. I have a cronjob set up to run a script that runs all the filtering scripts. 
-Syncthing syncs those eddited RSS files to my phone.
-I use Tasker to Launch a Server app (SHTTPS) and press the button to start the server. 
-My Podcast App is then set to 127.0.0.1/rssFeed.name
-It grabs the RSS Feed like normal.
-SHTTPS automatically turns off after 15 minutes
+My home server runs the script nightly. I have a cronjob set up to run a script that runs all the filtering scripts. <br>
+Syncthing syncs those eddited RSS files to my phone. <br>
+I use Tasker to Launch a Server app (SHTTPS) and press the button to start the server. <br>
+My Podcast App is then set to 127.0.0.1/rssFeed.name <br>
+It grabs the RSS Feed like normal.<br>
+SHTTPS automatically turns off after 15 minutes <br>
 
 Alternatively I have tried TailScale. <br>
 I don't recall why I didn't use that method. Probably because I like using duckduckgos app tracking blocker.
