@@ -9,7 +9,7 @@ This was the first project I 'vibe' coded. Blah Blah, **Dyslexic**. Blah Blah ca
 
 ### How I use it:
 My home server runs the script nightly. I have a cronjob set up to run a script that runs all the filtering scripts. <br>
-Syncthing syncs those eddited RSS files to my phone. <br>
+Syncthing syncs those edited RSS files to my phone. <br>
 I use Tasker to Launch a Server app (SHTTPS) and press the button to start the server. <br>
 My Podcast App is then set to 127.0.0.1/rssFeed.name <br>
 It grabs the RSS Feed like normal.<br>
